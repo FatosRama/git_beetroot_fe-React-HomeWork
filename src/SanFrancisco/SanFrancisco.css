@@ -1,5 +1,5 @@
-.Lisbon-main{
-    background: #3399CC;
+.SanFrancisco-main{
+    background: #CC6699;
     width:583px;
     height:147px;
     display: flex;
@@ -7,7 +7,7 @@
     align-items: center;
     justify-content: center;
 }
-.Lisbon-main h1, .Lisbon-main p{
+.SanFrancisco-main h1, .SanFrancisco-main p{
     color:white;
     font-size:22px;
     font-weight:400;

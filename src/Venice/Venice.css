@@ -1,13 +1,13 @@
-.Lisbon-main{
-    background: #3399CC;
-    width:583px;
+.Venice-main{
+    background: #C24747;
+    width:291px;
     height:147px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
-.Lisbon-main h1, .Lisbon-main p{
+.Venice-main h1, .Venice-main p{
     color:white;
     font-size:22px;
     font-weight:400;

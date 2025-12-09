@@ -1,15 +1,14 @@
-.Lisbon-main{
-    background: #3399CC;
-    width:583px;
+.Paris-main{
+    background:#33CCCC;
+    width:291px;
     height:147px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
-.Lisbon-main h1, .Lisbon-main p{
+.Paris-main h1, .Paris-main p{
     color:white;
-    font-size:22px;
+    font-size:21px;
     font-weight:400;
 }
-

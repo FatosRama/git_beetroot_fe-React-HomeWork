@@ -33,12 +33,20 @@
 .App-weather-table{
   background: white;
   width:100%;
-  height:592px;
+  height:600px;
+  display: flex;
+  flex-direction: column;
+  padding:4px;
+  padding-bottom: 4px;
+  gap:4px;
+}
+.App-weather-table-first,.App-weather-table-second,.App-weather-table-third,.App-weather-table-fourth{
   display: flex;
   flex-direction: row;
-  align-items: start;
-  
+  gap:4px;
 }
+
+
 
 .App-text p{
   color:white;

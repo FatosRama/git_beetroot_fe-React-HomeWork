@@ -1,13 +1,13 @@
-.Lisbon-main{
-    background: #3399CC;
-    width:583px;
+.Sydney-main{
+    background: #666699;
+    width:1170px;
     height:147px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
-.Lisbon-main h1, .Lisbon-main p{
+.Sydney-main h1, .Sydney-main p{
     color:white;
     font-size:22px;
     font-weight:400;
