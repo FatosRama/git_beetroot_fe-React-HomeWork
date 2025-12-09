@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -13,19 +11,34 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.App-main {
+  background-color: #3399CC;
+  border: 25px solid #2B81AC;
+  min-height: 86vh;
+  padding-top: 60px;
 }
 
-.App-link {
-  color: #61dafb;
+.App-container{
+  max-width: 1170px;
+  width:100%;
+  margin:0 auto;
+}
+
+.App-title h1{
+  color:white;
+  font-size:21px;
+  font-weight:400;
+}
+
+.App-weather-table{
+  background: white;
+  width:100%;
+  height:592px;
+}
+
+.App-text p{
+  color:white;
+  font-size:16px;
 }
 
 @keyframes App-logo-spin {
